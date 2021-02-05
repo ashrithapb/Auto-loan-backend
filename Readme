@@ -1,0 +1,7 @@
+How to run the project?
+Backend Communication API of the project: (node.js)
+  1.	Download and extract the backend(node.js) code from my GitHub link: https://github.com/ashrithapb/Auto-loan-backend 
+  2.	Open the terminal/command prompt and go to the path of the extracted folder (Example: Downloads\Auto-loan-backend-master\Auto-loan-backend-master)
+  3.	In the terminal, run the command: npm install
+  Once the necessary node_modules are installed, then run the command: node server.js
+  4.	If the above procedure is followed, then in the terminal if you see: “port 3200 “ then backend application is working as expected.
